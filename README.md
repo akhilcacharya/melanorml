@@ -2,6 +2,9 @@
 PoC of Early detection for Melanoma using mobile devices using a Convolutional Neural Network (CNN).  
 The CNN was trained from a hand-curated training set, which can be found in the /data folder.
 
+##Screenshots
+![App Screens](https://github.com/akhilcacharya/melanorml/blob/master/demo/Screens.png)
+
 ##About
 This application was written as the final project for my Honors 310 class at NC State University, which covers the Creative Process in Science. By vote, this project in particular was voted to be the most impressive project of the section.
 
