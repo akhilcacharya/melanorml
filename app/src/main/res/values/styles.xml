@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+
+    <item name="android:colorPrimary">@color/primary_color_melanorml</item>
+    <item name="android:colorPrimaryDark">@color/primary_color_dark_melanorml</item>
+
+
+    </style>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Melanorml</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="snap_picture">Snap</string>
+    <string name="description">Take a picture of a lesion or problem spot</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crop_btn">Crop Image</string>
+    <string name="indeterminate_string">Working...</string>
+    <string name="prognosis_template">%1$s : %2$s certainty</string>
+
+    <string-array name="prognosis_array">
+        <item>Image is inconsistent with malignant melanoma</item>
+        <item>Seek a doctor for confirmation</item>
+        <item>Seek a doctor immediately</item>
+        <item>Seek a doctor at earliest possible convenience</item>
+    </string-array>
+
+</resources>
